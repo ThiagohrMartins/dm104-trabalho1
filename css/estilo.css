@@ -1,0 +1,18 @@
+body{
+    font-size: 26px;
+    text-align: center;
+}
+tr.legenda {
+    font-size: 26px;
+    font-family: fantasy;
+    background: ghostwhite;
+}
+td.classificado {
+    background: lightgreen;
+}
+tr.escura {
+    background: lightgrey;
+}
+td.rebaixado {
+    background: lightcoral;
+}
